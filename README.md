@@ -1,71 +1,56 @@
-# Getting Started with Create React App
+# React Javascript Redux Toolkit CRUD Uygulaması
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://miro.medium.com/max/1400/1*NWwBHMkf--2ymnc-Zhhs_g.jpeg" height="100%" width="100%" title="hover text">
+</p>
 
-## Available Scripts
+## Redux Toolkit
 
-In the project directory, you can run:
+Redux Toolkit paketi, Redux mantığını yazmanın standart yolu olmasını amaçlamıştır. Temel Redux da ki karmaşıklığı ve fazladan kod yazmanın önüne geçilmesi sağlanmıştır.
 
-### `npm start`
+### Projenin Amacı Nedir ?
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React Javascript ile global state management Redux Toolkit ile nasıl kullanacağımızı paylaşıyorum.
+Bu projede kitap satıcısı uygulamasını Node js ile yazmmış olduğum api istekler atarak Redux Toolkit nasıl yapılacağını öğreneceksiniz.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Redux Toolkit Neden Kullanılırız?
 
-### `npm test`
+Redux, store yapılandırması daha kolay hale getirmek, paket kurulumlarını kolaylaştırmak, kod karışıklığını azaltmak ve geliştiricilerin ortak ve benzer kod yapıları yazmasını sağlamak için kullanmayı tercih ediyoruz.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Contact Us
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- 🌱 I’m currently learning **Solidity**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- 📝 I regularly write articles on [https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/](https://www.linkedin.com/in/furkanturkyilmaz/detail/recent-activity/shares/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- 🔮 I develop dApps project with React Javascript & React Native. 
 
-### `npm run eject`
+- 🤭 I love Web 3.0 Technology.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- 💡 I'm mentor for Javascript, React , React Native,Blockchain , Solidity, Web 3
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- 💬 Ask me about **React JS,React Native,Javascript,Solidity,Blockchain,Web 3**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- 📫 Email **trkyilmazfurkan@gmail.com**
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- <a href="https://linkedin.com/in/furkanturkyilmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="furkanturkyilmaz" height="20" width="20" /></a> LinkedIn **https://www.linkedin.com/in/furkanturkyilmaz/**
 
-## Learn More
+- <a href="https://linkedin.com/in/furkanturkyilmaz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="furkanturkyilmaz" height="20" width="20" /></a> GitHub **https://github.com/fturkyilmaz**
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## React Native Ücretsiz Eğitim İçerikleri
 
-### Code Splitting
+React Native & React Js düzenlemiş olduğum bootcamp ve coding challenge kayıtlarını sizlere paylaşıyorum.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+React Native Bootcamp : [https://www.youtube.com/playlist?list=PLT_pHf0diFdMX1AgnNOUqRkO9FvloedXG](https://www.youtube.com/playlist?list=PLT_pHf0diFdMX1AgnNOUqRkO9FvloedXG)
 
-### Analyzing the Bundle Size
+React Native Coding Challenge : [https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm](https://www.youtube.com/playlist?list=PLT_pHf0diFdMvewldSeN-dD-L9YVq1xbm) 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+**React Native,React Js ,Web 3.0 bootcamp  ve workshop düzenlemek isterseniz benimle iletişime geçebilirsiniz.** &nbsp;
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**React Native,React Js ,Javascript ekosisteminde ücretli mentorlük hizmeti vermekteyim.**  &nbsp;
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# react-javascript-redux-toolkit
+#web3 #javascript #blockchain  #reactnative #reactjs #solidity #web3
